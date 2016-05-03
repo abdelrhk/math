@@ -1,5 +1,3 @@
-# hello-world
+# Math: A JavaScript/Node Arithmetic Program
 
-Hi Humans !
-
-Hatim here, I like Node.Js and Coffeescript.
+This is a simple JavaScript/NodeJS program that does basic arithmetic and demonstrates test-driven development (TDD).
